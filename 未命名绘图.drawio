@@ -21,6 +21,12 @@
             <mxRectangle x="500" y="360" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="-wWxlK1CALG98RiuXOY9-1" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/active_directory.svg;noLabel=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="360" width="141.18" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="-wWxlK1CALG98RiuXOY9-2" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/server_farm.svg;" vertex="1" parent="1">
+          <mxGeometry x="480" y="360" width="90" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
