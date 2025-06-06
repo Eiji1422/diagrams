@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4" pages="2">
   <diagram name="第 1 页" id="ZaIxbTGt9ljsvJBM_i2E">
-    <mxGraphModel dx="2595" dy="766" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
+    <mxGraphModel dx="2115" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0" adaptiveColors="none">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,49 +75,49 @@
         <mxCell id="A8otQemTXDLGVKK_Nkt2-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.411;entryY=0.022;entryDx=0;entryDy=0;entryPerimeter=0;flowAnimation=1;strokeWidth=4;" parent="1" source="-wWxlK1CALG98RiuXOY9-1" target="-wWxlK1CALG98RiuXOY9-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-2" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="630" width="150" height="690" as="geometry" />
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-2" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="510" width="150" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-3" value="AnnotatedElementUtils" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;shadow=0;" vertex="1" parent="1">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-3" value="AnnotatedElementUtils" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="273" y="630" width="189" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-4" value="MergedAnnotations" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-4" value="MergedAnnotations" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="512" y="630" width="165" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-5" value="TypeMappedAnnotations" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-5" value="TypeMappedAnnotations" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="766" y="630" width="205" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-6" value="SynthesizedAnnotationInvoker" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-6" value="SynthesizedAnnotationInvoker" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1021" y="630" width="242" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-7" value="MergedAnnotation" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-7" value="MergedAnnotation" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1313" y="630" width="157" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-8" value="AnnotationUtils" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-8" value="AnnotationUtils" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" parent="1" vertex="1">
           <mxGeometry x="1520" y="630" width="150" height="690" as="geometry" />
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-9" value="findMergedAnnotation(MyClass.class, A.class)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;shadow=0;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-2" target="3ZHPrcl5G1pGr7z4v0Rn-3">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-9" value="findMergedAnnotation(MyClass.class, A.class)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;shadow=0;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-2" target="3ZHPrcl5G1pGr7z4v0Rn-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="170" y="739" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-10" value="from(MyClass.class)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-3" target="3ZHPrcl5G1pGr7z4v0Rn-4">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-10" value="from(MyClass.class)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-3" target="3ZHPrcl5G1pGr7z4v0Rn-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="489" y="793" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-11" value="forElement()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-4" target="3ZHPrcl5G1pGr7z4v0Rn-5">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-11" value="forElement()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-4" target="3ZHPrcl5G1pGr7z4v0Rn-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="847" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-12" value="递归扫描注解层次" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-5" target="3ZHPrcl5G1pGr7z4v0Rn-5">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-12" value="递归扫描注解层次" style="curved=1;endArrow=block;rounded=0;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-5" target="3ZHPrcl5G1pGr7z4v0Rn-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="919" y="893" />
@@ -125,42 +125,42 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-13" value="返回 MergedAnnotation&lt;A&gt;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-5" target="3ZHPrcl5G1pGr7z4v0Rn-4">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-13" value="返回 MergedAnnotation&lt;A&gt;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-5" target="3ZHPrcl5G1pGr7z4v0Rn-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="743" y="977" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-14" value="synthesize()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-4" target="3ZHPrcl5G1pGr7z4v0Rn-7">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-14" value="synthesize()" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-4" target="3ZHPrcl5G1pGr7z4v0Rn-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1001" y="1023" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-15" value="创建动态代理" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-7" target="3ZHPrcl5G1pGr7z4v0Rn-6">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-15" value="创建动态代理" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-7" target="3ZHPrcl5G1pGr7z4v0Rn-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1278" y="1069" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-16" value="解析别名和动态值" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-6" target="3ZHPrcl5G1pGr7z4v0Rn-8">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-16" value="解析别名和动态值" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-6" target="3ZHPrcl5G1pGr7z4v0Rn-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1377" y="1115" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-17" value="返回合成注解" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-6" target="3ZHPrcl5G1pGr7z4v0Rn-7">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-17" value="返回合成注解" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-6" target="3ZHPrcl5G1pGr7z4v0Rn-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1275" y="1161" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-18" value="最终 @A 实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" edge="1" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-7" target="3ZHPrcl5G1pGr7z4v0Rn-2">
+        <mxCell id="3ZHPrcl5G1pGr7z4v0Rn-18" value="最终 @A 实例" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" parent="1" source="3ZHPrcl5G1pGr7z4v0Rn-7" target="3ZHPrcl5G1pGr7z4v0Rn-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="685" y="1215" />
