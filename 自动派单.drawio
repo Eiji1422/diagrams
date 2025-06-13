@@ -1,17 +1,86 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="rLR3vmltF0vMiXQHbEWl">
-    <mxGraphModel dx="1213" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1501" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x7429I6yU55FwfNnnGia-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="150" width="30" height="60" as="geometry" />
+        <mxCell id="x7429I6yU55FwfNnnGia-1" value="工程师A" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
+          <mxGeometry x="230" y="160" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x7429I6yU55FwfNnnGia-4" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="110" width="20" height="30" as="geometry" />
+        <mxCell id="x7429I6yU55FwfNnnGia-4" value="" style="shape=actor;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="110" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="x7429I6yU55FwfNnnGia-7" value="&lt;ol&gt;&lt;li&gt;背景介绍&lt;/li&gt;&lt;li&gt;派单模型及算法选择&lt;/li&gt;&lt;li&gt;遗传算法介绍&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;遗传算法原理&lt;/li&gt;&lt;li&gt;遗传算法在订单分配的实现&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;4. 未来规划&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="190" width="300" height="260" as="geometry" />
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-8" value="12-13" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-9" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="380" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-10" value="10-11" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-11" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-12" value="12-14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-13" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="360" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-14" value="15-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-15" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-16" value="16-17" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-17" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-18" value="15-16" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-19" value="工程师B" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="520" y="430" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-22" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="520" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-23" value="12-14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-24" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-25" value="17-18" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-26" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="510" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-27" value="13-14" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-33" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="90" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-34" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="695" y="40" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-39" value="工程师" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="714" y="35" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-40" value="用户订单" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="85" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-41" value="12-13" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2QEGxLQr5mlDNrhVKIUR-44" value="上门时间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
