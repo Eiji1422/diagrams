@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="2778" dy="901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4665" dy="1915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,7 +121,7 @@
         <mxCell id="qKH2_BOYYmLdANCKaPFQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="CgRAZQXpNbJPGQv4JTm6-4" source="qKH2_BOYYmLdANCKaPFQ-11" target="QjMtK4b4pwI7S80n8QTU-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qKH2_BOYYmLdANCKaPFQ-11" value="商户选择：&lt;br&gt;维持原报价&lt;div&gt;或&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;放弃中标&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="CgRAZQXpNbJPGQv4JTm6-4">
+        <mxCell id="qKH2_BOYYmLdANCKaPFQ-11" value="商户选择：&lt;br&gt;维持原报价&lt;div&gt;或&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;放弃中标&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CgRAZQXpNbJPGQv4JTm6-4">
           <mxGeometry x="44.76" y="1100" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qKH2_BOYYmLdANCKaPFQ-14" value="发送核价结果mq" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="CgRAZQXpNbJPGQv4JTm6-4">
