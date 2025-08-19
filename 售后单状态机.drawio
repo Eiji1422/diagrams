@@ -318,34 +318,139 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zb_JyDND8dHimQHmOOMn-1" value="售后" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1030" y="450" width="100" height="300" as="geometry" />
+        <mxCell id="zb_JyDND8dHimQHmOOMn-1" value="C2P" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1030" y="450" width="100" height="640" as="geometry" />
         </mxCell>
         <mxCell id="zb_JyDND8dHimQHmOOMn-2" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-1">
-          <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
+          <mxGeometry x="45" y="90" width="10" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="zb_JyDND8dHimQHmOOMn-3" value="C2P" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="800" y="450" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="zb_JyDND8dHimQHmOOMn-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-3">
-          <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="zb_JyDND8dHimQHmOOMn-5" value="支付" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1260" y="450" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="zb_JyDND8dHimQHmOOMn-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-5">
-          <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="zb_JyDND8dHimQHmOOMn-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="zb_JyDND8dHimQHmOOMn-2" target="zb_JyDND8dHimQHmOOMn-8">
+        <mxCell id="zb_JyDND8dHimQHmOOMn-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="zb_JyDND8dHimQHmOOMn-1" source="zb_JyDND8dHimQHmOOMn-23" target="zb_JyDND8dHimQHmOOMn-32">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1020" y="560" />
-              <mxPoint x="1020" y="560" />
+              <mxPoint x="90" y="490" />
+              <mxPoint x="90" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zb_JyDND8dHimQHmOOMn-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1、调用退款金额接口&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;入参：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;二段单号、扣减金额&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="880" y="500" width="170" height="60" as="geometry" />
+        <mxCell id="zb_JyDND8dHimQHmOOMn-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-1">
+          <mxGeometry x="45" y="290" width="10" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-1">
+          <mxGeometry x="45" y="540" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-3" value="售后" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="800" y="450" width="100" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-8" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-3">
+          <mxGeometry x="45" y="90" width="10" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-35" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-3">
+          <mxGeometry x="45" y="540" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-5" value="支付" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1260" y="450" width="100" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-5">
+          <mxGeometry x="45" y="140" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-5">
+          <mxGeometry x="45" y="290" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-26" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="zb_JyDND8dHimQHmOOMn-5">
+          <mxGeometry x="45" y="360" width="10" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-10" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1、调用退款金额接口&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;入参：&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;二段单号、扣减金额等&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="875" y="500" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="zb_JyDND8dHimQHmOOMn-8" target="zb_JyDND8dHimQHmOOMn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="970" y="560" />
+              <mxPoint x="970" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" target="zb_JyDND8dHimQHmOOMn-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="615" as="sourcePoint" />
+            <mxPoint x="1300" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1085" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-15" value="2、退款接口&lt;div&gt;入参：一段单号、垫资类型、&lt;br&gt;折价类型、折价金额&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="550" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="zb_JyDND8dHimQHmOOMn-6" target="zb_JyDND8dHimQHmOOMn-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="650" />
+              <mxPoint x="1200" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-19" value="3、响应成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1155" y="619" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1" source="zb_JyDND8dHimQHmOOMn-2" target="zb_JyDND8dHimQHmOOMn-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="960" y="680" />
+              <mxPoint x="960" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-21" value="4、响应成功" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="910" y="649" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;dashed=1;" edge="1" parent="1" source="zb_JyDND8dHimQHmOOMn-22" target="zb_JyDND8dHimQHmOOMn-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1140" y="760" />
+              <mxPoint x="1140" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-25" value="5、mq监听退款结果" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="728" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-28" value="6、入参一段单号&lt;br&gt;实时查退款信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1137" y="796" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=-0.065;entryY=0.213;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zb_JyDND8dHimQHmOOMn-23" target="zb_JyDND8dHimQHmOOMn-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1210" y="836" />
+              <mxPoint x="1210" y="836" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1304.9999999999995" y="900.0588235294119" as="sourcePoint" />
+            <mxPoint x="1084.9999999999995" y="900.0588235294119" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1200" y="900" />
+              <mxPoint x="1200" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-31" value="7、退款结果、失败原因、&lt;br&gt;退款金额、退款时间等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="860" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-34" value="8、发送mq" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="957" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=0;entryX=0.876;entryY=0.245;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1074.9999999999995" y="1019.0588235294119" as="sourcePoint" />
+            <mxPoint x="853.7599999999998" y="1018.6000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zb_JyDND8dHimQHmOOMn-37" value="9、监听mq同步退款信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="880" y="987" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
