@@ -203,23 +203,23 @@
         <mxCell id="GfPiX0NhnV7fmGX6SbUD-1" value="" style="ellipse;fillColor=strokeColor;" parent="1" vertex="1">
           <mxGeometry x="396" y="1260" width="14" height="14" as="geometry" />
         </mxCell>
-        <mxCell id="GfPiX0NhnV7fmGX6SbUD-2" value="创建完成" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="363" y="1324" width="80" height="40" as="geometry" />
+        <mxCell id="GfPiX0NhnV7fmGX6SbUD-2" value="1001 创建完成 &#xa;1002 待客服审核" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="351.5" y="1324" width="103" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GfPiX0NhnV7fmGX6SbUD-3" value="已邀请用户补充凭证" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+        <mxCell id="GfPiX0NhnV7fmGX6SbUD-3" value=" 1003  待补充凭证" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="495" y="1437" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GfPiX0NhnV7fmGX6SbUD-4" value="已取消" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="543" y="1550" width="64" height="40" as="geometry" />
+        <mxCell id="GfPiX0NhnV7fmGX6SbUD-4" value="9999（1001 1002） 已取消" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="513" y="1560" width="167" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GfPiX0NhnV7fmGX6SbUD-5" value="已拒绝" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="183" y="1663" width="64" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="GfPiX0NhnV7fmGX6SbUD-6" value="已审核" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="298" y="1470" width="64" height="40" as="geometry" />
+        <mxCell id="GfPiX0NhnV7fmGX6SbUD-6" value="80001 已审核" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
+          <mxGeometry x="285" y="1470" width="102" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GfPiX0NhnV7fmGX6SbUD-7" value="业务已复审" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
-          <mxGeometry x="45" y="1550" width="96" height="40" as="geometry" />
+          <mxGeometry x="45" y="1560" width="96" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GfPiX0NhnV7fmGX6SbUD-8" value="退款完成" style="rounded=1;arcSize=20;strokeWidth=2" parent="1" vertex="1">
           <mxGeometry x="53" y="1663" width="80" height="40" as="geometry" />
@@ -276,10 +276,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GfPiX0NhnV7fmGX6SbUD-18" value="复审通过" style="curved=1;startArrow=none;;exitX=0;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" parent="1" source="GfPiX0NhnV7fmGX6SbUD-6" target="GfPiX0NhnV7fmGX6SbUD-7" edge="1">
+        <mxCell id="GfPiX0NhnV7fmGX6SbUD-18" value="复审通过" style="curved=1;startArrow=none;;exitX=0;exitY=0.5;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" parent="1" source="GfPiX0NhnV7fmGX6SbUD-6" target="GfPiX0NhnV7fmGX6SbUD-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="93" y="1514" />
+              <mxPoint x="100" y="1480" />
             </Array>
           </mxGeometry>
         </mxCell>
