@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="-Ef5-O3ctH-SvHBUH4O_">
-    <mxGraphModel dx="4392" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4901" dy="2286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,6 +189,14 @@
         <mxCell id="b5TzrCel23jRj6QEqPlL-3" edge="1" parent="1" source="b5TzrCel23jRj6QEqPlL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-10" edge="1" parent="1" source="b5TzrCel23jRj6QEqPlL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pcpJp1l9csYzpj9uyute-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="940" />
+              <mxPoint x="740" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="b5TzrCel23jRj6QEqPlL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="是否已经分配了鉴定师（真人或AI都算）" vertex="1">
           <mxGeometry height="60" width="120" x="811" y="910" as="geometry" />
         </mxCell>
@@ -211,6 +219,12 @@
         </mxCell>
         <mxCell id="b5TzrCel23jRj6QEqPlL-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
           <mxGeometry height="30" width="60" x="816.5" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="860" y="1000" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="751" y="910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
