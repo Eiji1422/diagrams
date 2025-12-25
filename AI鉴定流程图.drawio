@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="29.2.9">
   <diagram name="第 1 页" id="-Ef5-O3ctH-SvHBUH4O_">
-    <mxGraphModel dx="2253" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4392" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -87,8 +87,10 @@
         <mxCell id="pcpJp1l9csYzpj9uyute-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="AI鉴定结果" vertex="1">
           <mxGeometry height="30" width="80" x="1230" y="245" as="geometry" />
         </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-88" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-87" value="">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="pcpJp1l9csYzpj9uyute-88" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005.5" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-60" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" value="" vertex="1">
           <mxGeometry height="145" width="60" x="975.5" y="468" as="geometry" />
@@ -107,7 +109,7 @@
         <mxCell id="pcpJp1l9csYzpj9uyute-84" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-83" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-101" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-100">
+        <mxCell id="b5TzrCel23jRj6QEqPlL-2" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="b5TzrCel23jRj6QEqPlL-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-73" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="消息类型" vertex="1">
@@ -125,34 +127,14 @@
         <mxCell id="pcpJp1l9csYzpj9uyute-108" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-107" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="是否应用鉴定结果" vertex="1">
+        <mxCell id="pcpJp1l9csYzpj9uyute-83" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="非高值&amp;amp;&lt;div&gt;不通过&amp;amp;&lt;/div&gt;&lt;div&gt;未超时&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="1089.5" y="910" as="geometry" />
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-85" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2&amp;nbsp; AI鉴定结果" vertex="1">
           <mxGeometry height="30" width="80" x="1059.5" y="799.5" as="geometry" />
         </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-89" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-73" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-113" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pcpJp1l9csYzpj9uyute-91">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="690" y="680" />
-              <mxPoint x="690" y="1440" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-87" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="是否已经分配了鉴定师（真人或AI都算）" vertex="1">
-          <mxGeometry height="60" width="120" x="945.5" y="650" as="geometry" />
-        </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
-          <mxGeometry height="30" width="60" x="990" y="730" as="geometry" />
-        </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-91" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="结束" vertex="1">
           <mxGeometry height="80" width="120" x="945.5" y="1400" as="geometry" />
-        </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-93" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
-          <mxGeometry height="30" width="60" x="790" y="650" as="geometry" />
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-115" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="pcpJp1l9csYzpj9uyute-91">
           <mxGeometry relative="1" as="geometry">
@@ -164,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-100" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分配鉴定师" vertex="1">
-          <mxGeometry height="60" width="120" x="811" y="910" as="geometry" />
+          <mxGeometry height="60" width="120" x="811" y="1060" as="geometry" />
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-103" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="黄色部分鉴定单维度加锁" vertex="1">
           <mxGeometry height="30" width="190" x="1280" y="570" as="geometry" />
@@ -172,7 +154,7 @@
         <mxCell id="pcpJp1l9csYzpj9uyute-112" edge="1" parent="1" source="pcpJp1l9csYzpj9uyute-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-111" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pcpJp1l9csYzpj9uyute-104" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="修改鉴定结果为&lt;br&gt;不通过" vertex="1">
+        <mxCell id="pcpJp1l9csYzpj9uyute-104" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="应用鉴定结果为&lt;br&gt;不通过" vertex="1">
           <mxGeometry height="60" width="120" x="1089.5" y="1020" as="geometry" />
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
@@ -203,6 +185,32 @@
         </mxCell>
         <mxCell id="pcpJp1l9csYzpj9uyute-116" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="AI鉴定置为响应正常" vertex="1">
           <mxGeometry height="60" width="120" x="1089.5" y="1230" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-3" edge="1" parent="1" source="b5TzrCel23jRj6QEqPlL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="是否已经分配了鉴定师（真人或AI都算）" vertex="1">
+          <mxGeometry height="60" width="120" x="811" y="910" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-5" edge="1" parent="1" source="b5TzrCel23jRj6QEqPlL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="pcpJp1l9csYzpj9uyute-73" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-7" edge="1" parent="1" source="b5TzrCel23jRj6QEqPlL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="pcpJp1l9csYzpj9uyute-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="680" />
+              <mxPoint x="740" y="1440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="是否待鉴定状态" vertex="1">
+          <mxGeometry height="60" width="120" x="945" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="是" vertex="1">
+          <mxGeometry height="30" width="60" x="991" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="b5TzrCel23jRj6QEqPlL-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="否" vertex="1">
+          <mxGeometry height="30" width="60" x="816.5" y="650" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
