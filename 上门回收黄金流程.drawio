@@ -1,14 +1,16 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="BSWbvmRwfcPRB4VAwOrj">
-    <mxGraphModel dx="2571" dy="1455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3142" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gZfWPWpIG3GiOIZuotE6-110" edge="1" parent="1" source="gZfWPWpIG3GiOIZuotE6-82" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;" target="gZfWPWpIG3GiOIZuotE6-83">
+        <mxCell id="gZfWPWpIG3GiOIZuotE6-110" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="310" />
+              <mxPoint x="220" y="370" />
             </Array>
+            <mxPoint x="94.89393939393949" y="370" as="sourcePoint" />
+            <mxPoint x="324.5" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gZfWPWpIG3GiOIZuotE6-111" connectable="0" parent="gZfWPWpIG3GiOIZuotE6-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="绑定防伪签" vertex="1">
@@ -86,15 +88,17 @@
         <mxCell id="gZfWPWpIG3GiOIZuotE6-96" edge="1" parent="1" source="gZfWPWpIG3GiOIZuotE6-83" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="gZfWPWpIG3GiOIZuotE6-82" value="检测中">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="360" />
+              <mxPoint x="210" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gZfWPWpIG3GiOIZuotE6-97" edge="1" parent="1" source="gZfWPWpIG3GiOIZuotE6-84" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" target="gZfWPWpIG3GiOIZuotE6-83" value="确认金价">
+        <mxCell id="gZfWPWpIG3GiOIZuotE6-97" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="确认金价">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="437" y="397" />
+              <mxPoint x="437" y="340" />
             </Array>
+            <mxPoint x="524.5" y="340" as="sourcePoint" />
+            <mxPoint x="324.8939393939395" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gZfWPWpIG3GiOIZuotE6-98" edge="1" parent="1" source="gZfWPWpIG3GiOIZuotE6-83" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="gZfWPWpIG3GiOIZuotE6-82" value="审核中">
@@ -188,6 +192,17 @@
         <mxCell id="gZfWPWpIG3GiOIZuotE6-116" connectable="0" parent="gZfWPWpIG3GiOIZuotE6-115" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="重新提交检测信息" vertex="1">
           <mxGeometry relative="1" x="-0.0217" as="geometry">
             <mxPoint x="3" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_t61uC5mgCkzgvHaip5h-1" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;entryX=0.491;entryY=0.208;entryDx=0;entryDy=0;entryPerimeter=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="94.89393939393949" y="310.2606060606061" as="sourcePoint" />
+            <mxPoint x="323.6500000000001" y="309.99999999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_t61uC5mgCkzgvHaip5h-2" connectable="0" parent="_t61uC5mgCkzgvHaip5h-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="开始处理" vertex="1">
+          <mxGeometry relative="1" x="-0.1035" y="2" as="geometry">
+            <mxPoint x="13" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
