@@ -7,10 +7,10 @@
         <mxCell id="gZfWPWpIG3GiOIZuotE6-110" edge="1" parent="1" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;curved=0;">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="220" y="370" />
+              <mxPoint x="220" y="410" />
             </Array>
-            <mxPoint x="94.89393939393949" y="370" as="sourcePoint" />
-            <mxPoint x="324.5" y="370" as="targetPoint" />
+            <mxPoint x="94.89393939393949" y="410" as="sourcePoint" />
+            <mxPoint x="324.5" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gZfWPWpIG3GiOIZuotE6-111" connectable="0" parent="gZfWPWpIG3GiOIZuotE6-110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="绑定防伪签" vertex="1">
@@ -85,11 +85,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gZfWPWpIG3GiOIZuotE6-96" edge="1" parent="1" source="gZfWPWpIG3GiOIZuotE6-83" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" target="gZfWPWpIG3GiOIZuotE6-82" value="检测中">
+        <mxCell id="gZfWPWpIG3GiOIZuotE6-96" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;" value="检测中">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="410" />
+              <mxPoint x="210" y="370" />
             </Array>
+            <mxPoint x="324.5" y="370" as="sourcePoint" />
+            <mxPoint x="94.98717948717945" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gZfWPWpIG3GiOIZuotE6-97" edge="1" parent="1" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" value="确认金价">
