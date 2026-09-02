@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="-YcsKeY7CuUNm62fVG0L">
-    <mxGraphModel dx="4250" dy="1692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3243" dy="1194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -173,8 +173,8 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="FXHM6JVSZm-q2RreChBv-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;开启AI托管&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="270" x="690" y="90" as="geometry" />
+        <mxCell id="FXHM6JVSZm-q2RreChBv-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;开启AI托管（新接口）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="277" x="690" y="90" as="geometry" />
         </mxCell>
         <UserObject label="" mermaidData="{&#xa;  &quot;data&quot;: &quot;\nflowchart TD\n    A([用户点击开启AI托管])\n    A --&gt; B{简历更新时间是否≤30天}\n\n    B -- 否 --&gt; C[展示“更新简历”弹窗]\n    C --&gt; D{是否更新简历}\n    D -- 否 --&gt; E([本次流程结束])\n    D -- 是 --&gt; F([更新完成后重新校验])\n\n    B -- 是 --&gt; G[获取用户求职期望]\n    G --&gt; H[按期望城市和岗位&lt;br/&gt;匹配Apollo城市岗位数量]\n    H --&gt; I{是否至少一个城市岗位组合&lt;br/&gt;活跃职位数&gt;200}\n\n    I -- 是 --&gt; J[进入原有“二次确认开启”流程]\n    I -- 否 --&gt; K[展示“匹配机会较少”弹窗]\n\n    K --&gt; L{用户选择}\n    L -- 暂不开启 --&gt; M([本次流程结束])\n    L -- 编辑求职期望 --&gt; N[跳转求职期望编辑页面]\n    N --&gt; O([修改完成后重新校验])\n&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="FXHM6JVSZm-q2RreChBv-67">
           <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
