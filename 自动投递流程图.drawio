@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FXHM6JVSZm-q2RreChBv-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;进入页面入口流程&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="270" x="-260" y="80" as="geometry" />
+        <mxCell id="FXHM6JVSZm-q2RreChBv-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 27px;&quot;&gt;进入页面入口流程（频控流程应该靠前）&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="277" x="-260" y="80" as="geometry" />
         </mxCell>
         <UserObject label="" mermaidData="{&#xa;  &quot;data&quot;: &quot;\nflowchart TD\n    A([进入岗位推荐 / 任务查看页面])\n    A --&gt; B[调用 getAutoDeliveryGuideState]\n    B --&gt; C{简历更新时间是否≤30天}\n\n    C -- 否 --&gt; D[展示“更新简历”引导]\n    D --&gt; E([不展示开启AI托管气泡])\n\n    C -- 是 --&gt; F[获取用户求职期望]\n    F --&gt; G[按期望城市和岗位&lt;br/&gt;匹配Apollo城市岗位数量]\n    G --&gt; H{是否至少一个城市岗位组合&lt;br/&gt;活跃职位数&gt;200}\n\n    H -- 否 --&gt; I([不展示开启AI托管气泡])\n    H -- 是 --&gt; J[进入原有气泡频控流程]\n\n    J --&gt; K{原有展示条件是否满足}\n    K -- 否 --&gt; L([不展示气泡])\n    K -- 是 --&gt; M[展示“开启AI自动求职”气泡]\n&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="FXHM6JVSZm-q2RreChBv-40">
           <mxCell connectable="0" parent="1" style="group;transparentBounds=1;editIcon=1;lockedGroup=0;groupPadding=10;" vertex="1">
