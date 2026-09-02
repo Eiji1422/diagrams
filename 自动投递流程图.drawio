@@ -371,7 +371,7 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="FXHM6JVSZm-q2RreChBv-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;确认投递&lt;/span&gt;" vertex="1">
+        <mxCell id="FXHM6JVSZm-q2RreChBv-97" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;投递简历&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="270" x="1660" y="90" as="geometry" />
         </mxCell>
         <UserObject label="" mermaidData="{&#xa;  &quot;data&quot;: &quot;\nflowchart TD\n    A([用户手动投递成功])\n    A --&gt; B{是否命中原有&lt;br/&gt;投递引导频控}\n\n    B -- 否 --&gt; C([不展示开启引导])\n    B -- 是 --&gt; D{简历更新时间是否≤30天}\n\n    D -- 否 --&gt; E([投递成功&lt;br/&gt;不展示开启引导])\n    D -- 是 --&gt; F[获取用户求职期望]\n\n    F --&gt; G[按期望城市和岗位&lt;br/&gt;匹配Apollo城市岗位数量]\n    G --&gt; H{是否至少一个城市岗位组合&lt;br/&gt;活跃职位数&gt;200}\n\n    H -- 否 --&gt; I([投递成功&lt;br/&gt;不展示开启引导])\n    H -- 是 --&gt; J[进入原有“开启AI托管”引导流程]\n&quot;,&#xa;  &quot;config&quot;: null&#xa;}" id="FXHM6JVSZm-q2RreChBv-98">
